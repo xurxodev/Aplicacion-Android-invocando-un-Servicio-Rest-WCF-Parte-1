@@ -1,0 +1,12 @@
+C:\Users\jsanchez\Dropbox\Ejemplos Net\XurxoDeveloper.Blogspot\EjemploWCFJson\WCFServiceJSON\WCFServiceJSON\bin\Debug\WCFServiceJSON.dll.config
+C:\Users\jsanchez\Dropbox\Ejemplos Net\XurxoDeveloper.Blogspot\EjemploWCFJson\WCFServiceJSON\WCFServiceJSON\bin\Debug\WCFServiceJSON.dll
+C:\Users\jsanchez\Dropbox\Ejemplos Net\XurxoDeveloper.Blogspot\EjemploWCFJson\WCFServiceJSON\WCFServiceJSON\bin\Debug\WCFServiceJSON.pdb
+C:\Users\jsanchez\Dropbox\Ejemplos Net\XurxoDeveloper.Blogspot\EjemploWCFJson\WCFServiceJSON\WCFServiceJSON\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jsanchez\Dropbox\Ejemplos Net\XurxoDeveloper.Blogspot\EjemploWCFJson\WCFServiceJSON\WCFServiceJSON\obj\Debug\WCFServiceJSON.dll
+C:\Users\jsanchez\Dropbox\Ejemplos Net\XurxoDeveloper.Blogspot\EjemploWCFJson\WCFServiceJSON\WCFServiceJSON\obj\Debug\WCFServiceJSON.pdb
+C:\Users\xurxo\Dropbox\Desarrollo\Proyectos Personales\XurxoDeveloper.Blogspot\Aplicación Android invocando un Servicio Rest WCF Parte 1\WCFServiceJSON\WCFServiceJSON\bin\Debug\WCFServiceJSON.dll.config
+C:\Users\xurxo\Dropbox\Desarrollo\Proyectos Personales\XurxoDeveloper.Blogspot\Aplicación Android invocando un Servicio Rest WCF Parte 1\WCFServiceJSON\WCFServiceJSON\bin\Debug\WCFServiceJSON.dll
+C:\Users\xurxo\Dropbox\Desarrollo\Proyectos Personales\XurxoDeveloper.Blogspot\Aplicación Android invocando un Servicio Rest WCF Parte 1\WCFServiceJSON\WCFServiceJSON\bin\Debug\WCFServiceJSON.pdb
+C:\Users\xurxo\Dropbox\Desarrollo\Proyectos Personales\XurxoDeveloper.Blogspot\Aplicación Android invocando un Servicio Rest WCF Parte 1\WCFServiceJSON\WCFServiceJSON\obj\Debug\WCFServiceJSON.csprojResolveAssemblyReference.cache
+C:\Users\xurxo\Dropbox\Desarrollo\Proyectos Personales\XurxoDeveloper.Blogspot\Aplicación Android invocando un Servicio Rest WCF Parte 1\WCFServiceJSON\WCFServiceJSON\obj\Debug\WCFServiceJSON.dll
+C:\Users\xurxo\Dropbox\Desarrollo\Proyectos Personales\XurxoDeveloper.Blogspot\Aplicación Android invocando un Servicio Rest WCF Parte 1\WCFServiceJSON\WCFServiceJSON\obj\Debug\WCFServiceJSON.pdb

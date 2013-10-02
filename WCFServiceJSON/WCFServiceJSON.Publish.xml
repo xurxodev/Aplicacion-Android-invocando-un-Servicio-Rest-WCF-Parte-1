@@ -1,0 +1,14 @@
+<publishData>
+  <publishTarget publishUrl="http://localhost/WCFServiceJSON">
+    <file relUrl="bin/WCFServiceJSON.dll.config" publishTime="01/18/2012 18:05:21" />
+    <file relUrl="bin/WCFServiceJSON.pdb" publishTime="01/19/2012 08:48:46" />
+    <file relUrl="bin/WCFServiceJSON.dll" publishTime="01/19/2012 08:48:46" />
+    <file relUrl="Web.config" publishTime="01/18/2012 18:05:21" />
+  </publishTarget>
+  <publishTarget publishUrl="http://localhost">
+    <file relUrl="bin/WCFServiceJSON.dll.config" publishTime="01/18/2012 18:05:21" />
+    <file relUrl="bin/WCFServiceJSON.pdb" publishTime="01/19/2012 08:42:50" />
+    <file relUrl="bin/WCFServiceJSON.dll" publishTime="01/19/2012 08:42:50" />
+    <file relUrl="Web.config" publishTime="01/18/2012 18:05:21" />
+  </publishTarget>
+</publishData>
